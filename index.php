@@ -1,5 +1,5 @@
 <html>
 	<body>
-		<h1>Constancias</h1>
+		<h1>Constancias de no queja medica</h1>
 	</body>
 </html>
