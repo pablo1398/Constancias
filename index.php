@@ -6,8 +6,11 @@
                 height: 8%;
             }
             .recuadro{
-                background-color: rgb(177, 177, 177);
+                background-color: rgb(236, 236, 236);
                 border-radius:10px;
+                align-items: center;
+                align-self: center;
+                text-align: center;
             }
             .titulo{
 
