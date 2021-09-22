@@ -6,7 +6,8 @@
                 height: 8%;
             }
             .recuadro{
-                background-color: gray;
+                background-color: rgb(177, 177, 177);
+                border-radius:10px;
             }
             .titulo{
 
@@ -25,8 +26,8 @@
     </head>
     <body>
         <div class="header">
-            <img class="head1" height="8%" width="69%" src="images/header_salud_00a7e1.jpg">
-            <img class="head2" height="8%" width="29%" src="images/header_logo.jpeg">
+            <img class="head1" height="8%" width="68%" src="images/header_salud_00a7e1.jpg">
+            <img class="head2" height="8%" width="28%" src="images/header_logo.jpeg">
         </div>
         
         <div class="recuadro">
