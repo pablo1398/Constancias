@@ -15,6 +15,7 @@
                 align-self: center;
                 text-align: center;
                 width: 35%;
+		heigth: 35%;
                 margin-left: auto;
 	            margin-right: auto;
             }
