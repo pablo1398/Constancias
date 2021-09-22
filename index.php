@@ -23,7 +23,10 @@
         </style>
     </head>
     <body>
-        <img class="header" src="images/header_salud_00a7e1.jpg">
+        <div class="header">
+            <img class="head1" src="images/header_salud_00a7e1.jpg">
+            <img class="head2" src="images/header_logo.jpeg">
+        </div>
         
         <div class="recuadro">
             <div class="titulo">
