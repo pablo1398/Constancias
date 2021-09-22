@@ -11,6 +11,7 @@
                 align-items: center;
                 align-self: center;
                 text-align: center;
+                width: 30%;
             }
             .titulo{
 
@@ -29,8 +30,8 @@
     </head>
     <body>
         <div class="header">
-            <img class="head1" height="8%" width="68%" src="images/header_salud_00a7e1.jpg">
-            <img class="head2" height="8%" width="28%" src="images/header_logo.jpeg">
+            <img class="head1" height="10%" width="69%" src="images/header_salud_00a7e1.jpg">
+            <img class="head2" height="10%" width="29%" src="images/header_logo.jpeg">
         </div>
         
         <div class="recuadro">
@@ -38,11 +39,11 @@
                 Bienvenido
             </div>
             <div class="usuario">
-                USUARIO / CORREO
+                USUARIO / CORREO <br>
                 <input type="text">
             </div>
             <div class="contraseña">
-                CONTRASEÑA
+                CONTRASEÑA <br>
                 <input type="password">
             </div>
             <div class="inicio">
