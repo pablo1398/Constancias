@@ -10,7 +10,7 @@
             .titulo{
 
             }
-            .btn{
+            .btn1{
                 background-color: #00A7E1;
                 color: white;
                 padding:6px;
