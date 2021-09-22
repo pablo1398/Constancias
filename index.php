@@ -2,10 +2,10 @@
     <head>
         <style>
             .header{
-                margin: auto;
-                height: 8%;
+                
             }
             .recuadro{
+                margin-top: 10%;
                 background-color: rgb(236, 236, 236);
                 border-radius:10px;
                 align-items: center;
