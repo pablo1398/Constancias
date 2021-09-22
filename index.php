@@ -13,13 +13,11 @@
             .btn1{
                 background-color: #00A7E1;
                 color: white;
-                padding:6px;
                 border-radius:10px;
             }
             .btn2{
                 background-color: #E7004C;
                 color: white;
-                padding:6px;
                 border-radius:10px;
             }
         </style>
