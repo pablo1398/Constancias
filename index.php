@@ -53,7 +53,7 @@
     <body>
         <div class="header">
             <img class="head1" height="10%" width="70%" src="images/header_salud_00a7e1.jpg">
-            <img class="head2" height="10%" width="30%" src="images/header_logo.jpeg">
+            <img class="head2" height="10%" width="29.5%" src="images/header_logo.jpeg">
         </div>
         
         <div class="recuadro">
