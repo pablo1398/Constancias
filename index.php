@@ -39,7 +39,7 @@
 		margin-top: 30px;
             }
             .btn1{
-                background-color: #891204;
+                background-color: #00A7E1;
                 color: white;
                 border-radius:10px;
             }
