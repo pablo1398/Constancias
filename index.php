@@ -2,7 +2,8 @@
     <head>
         <style>
             .header{
-
+                margin: auto;
+                height: 8%;
             }
             .recuadro{
 
