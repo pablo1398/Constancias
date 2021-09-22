@@ -1,6 +1,9 @@
 <html>
     <head>
         <style>
+            body{
+                margin:0px auto;
+            }
             .header{
                 
             }
@@ -29,7 +32,6 @@
         </style>
     </head>
     <body>
-        margin:0px auto;
         <div class="header">
             <img class="head1" height="10%" width="69%" src="images/header_salud_00a7e1.jpg">
             <img class="head2" height="10%" width="29%" src="images/header_logo.jpeg">
