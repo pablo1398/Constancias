@@ -1,5 +1,8 @@
 <html>
     <head>
+
+        <link href="fuentes.css" rel="stylesheet" type="text/css">
+
         <style>
             body{
                 margin:0px auto;
@@ -7,12 +10,12 @@
             .header{
 
             }
-		.head1{
-			margin:0px auto;
-		}
-		.head2{
-			margin:0px auto;
-		}
+            .head1{
+                margin:0px auto;
+            }
+            .head2{
+                margin:0px auto;
+            }
 
             .recuadro{
                 margin-top: 10%;
@@ -22,21 +25,21 @@
                 align-self: center;
                 text-align: center;
                 width: 35%;
-		heigth: 35%;
+                heigth: 35%;
                 margin-left: auto;
 	            margin-right: auto;
             }
             .titulo{
-		margin-top: 30px;
+		        margin-top: 30px;
             }
-	    .usuario{
-		margin-top: 30px;
-            }
-	    .contraseña{
-		margin-top: 30px;
-            }
-	    .inicio{
-		margin-top: 30px;
+            .usuario{
+            margin-top: 30px;
+                }
+            .contraseña{
+            margin-top: 30px;
+                }
+            .inicio{
+            margin-top: 30px;
             }
             .btn1{
                 background-color: #00A7E1;
@@ -55,7 +58,6 @@
             <img class="head1" height="10%" width="70%" src="images/header_salud_00a7e1.jpg">
             <img class="head2" height="10%" width="29.5%" src="images/header_logo.jpeg">
         </div>
-
         <div class="recuadro">
             <div class="titulo">
                 Bienvenido
