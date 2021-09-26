@@ -1,0 +1,31 @@
+/* Codificación de texto */
+@charset 'utf-8';
+
+/* Fuente header */
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+/* Fuente de encabezados */
+@import 'https://fonts.googleapis.com/css?family=Lato:300,400,700,900';
+
+/* Fuente general */
+@import 'https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800';
+
+.titulo-header{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.625rem;
+    line-height: 1;
+    text-rendering: optimizelegibility;
+}
+
+body{
+  font-family: "Open Sans", sans-serif;
+  font-size: 1rem;
+  color: #4D5358;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.6;
+}
