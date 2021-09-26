@@ -19,7 +19,7 @@
 
             .recuadro{
                 margin-top: 10%;
-                padding: auto;
+                padding: 10%;
                 background-color: rgb(236, 236, 236);
                 border-radius:10px;
                 align-items: center;
