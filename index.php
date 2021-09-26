@@ -34,20 +34,22 @@
 		        font-size: 2rem;
             }
             .usuario{
-            margin-top: 30px;
-                }
+                margin-top: 30px;
+            }
             .contraseña{
-            margin-top: 30px;
-                }
+                margin-top: 30px;
+            }
             .inicio{
-            margin-top: 30px;
+                margin-top: 30px;
             }
             .btn1{
+                margin-top: 5px;
                 background-color: #00A7E1;
                 color: white;
                 border-radius:10px;
             }
             .btn2{
+                margin-top: 4px;
                 background-color: #E7004C;
                 color: white;
                 border-radius:10px;
