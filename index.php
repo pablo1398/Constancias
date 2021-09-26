@@ -31,7 +31,7 @@
 	            margin-right: auto;
             }
             .titulo{
-		        font-size: 3rem;
+		        font-size: 2rem;
             }
             .usuario{
             margin-top: 30px;
