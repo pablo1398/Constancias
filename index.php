@@ -80,5 +80,7 @@
                 <button class="btn2">RECUPERAR CONTRASEÑA</button>
             </div>
         </div>
+
+        <a href="uploadDocuments.html">Subir documentos</a>
     </body>
 </html>
