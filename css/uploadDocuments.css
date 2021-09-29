@@ -3,5 +3,9 @@
   align-self: center;
   text-align: center;
   background-color: rgb(236, 236, 236);
-  
+}
+
+.imgFoto{
+  width: 5%;
+  height: 5%;
 }
