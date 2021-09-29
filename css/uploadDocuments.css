@@ -15,6 +15,7 @@
 .imgFoto{
   width: 10%;
   height: 10%;
+  align-items: right;
 }
 
 .tittle{
