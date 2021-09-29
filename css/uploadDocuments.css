@@ -15,13 +15,9 @@
 .imgFoto{
   width: 10%;
   height: 10%;
-  align-items: right;
-  align-self: right;
-  text-align: right;
+  float: right;
 }
 
 .tittle{
-  align-items: left;
-  align-self: left;
-  text-align: left;
+  float:  left;
 }
