@@ -19,4 +19,6 @@
 
 .tittle{
   align-items: left;
+  align-self: left;
+  text-align: left;
 }
