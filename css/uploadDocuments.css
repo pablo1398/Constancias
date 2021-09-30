@@ -13,9 +13,7 @@
 }
 
 .blank{
-  align-items: flex-end;
-  align-self: flex-end;
-  text-align: center;
+  margin-right: 0px auto;
 }
 
 .imgFoto{
