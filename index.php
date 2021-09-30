@@ -32,11 +32,11 @@
             </div>
             <div class="usuario">
                 USUARIO / CORREO <br>
-                <input class="inputs" type="text">
+                <input  class="inputs" type="text">
             </div>
             <div class="contraseña">
                 CONTRASEÑA <br>
-                <input class="inputs" type="password">
+                <input  class="inputs" type="password">
             </div>
             <div class="inicio">
                 <button class="btn1">INICIAR SESIÓN</button>
