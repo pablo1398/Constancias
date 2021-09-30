@@ -24,3 +24,10 @@
 .tittle{
   float:  left;
 }
+
+.boton{
+  margin-top: 5px;
+  background-color: #00A7E1;
+  color: white;
+  border-radius:10px;
+}
