@@ -1,1 +1,32 @@
+body{
+    margin: 0px auto;
+}
 
+.recuadro{
+    margin-top: 10%;
+    padding: 3%;
+    background-color: #D5D9DC;
+    border-radius:10px;
+    align-items: center;
+    align-self: center;
+    text-align: center;
+    width: 85%;
+    
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 5%;
+    flex-wrap: nowrap;
+
+    box-shadow: 15px 15px 10px #8fa1af;
+
+}
+
+.titulo{
+    font-size: 2rem;
+}
+
+.imgFoto{
+    width: 10%;
+    height: 10%;
+  }
