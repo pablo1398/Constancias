@@ -27,8 +27,8 @@ body{
 }
 
 .imgFoto{
-    width: 10%;
-    height: 10%;
+    width: 15%;
+    height: 15%;
   }
 
 .id{
@@ -50,4 +50,9 @@ body{
 
 .img{
     width: 7%;
+}
+
+.linea{
+    background-color: #00A7E1;
+    color: white;
 }
