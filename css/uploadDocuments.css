@@ -1,0 +1,39 @@
+.recuadro{
+  align-self: center;
+  text-align: center;
+  background-color: #D5D9DC;
+  margin-top: 10%;
+  padding: 3%;
+  border-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+  height: 55%;
+}
+
+.blank{
+  margin-right: 0px auto;
+}
+
+.imgFoto{
+  width: 10%;
+  height: 10%;
+  float: right;
+}
+
+.tittle{
+  float:  left;
+}
+
+.boton{
+  margin-top: 5px;
+  background-color: #00A7E1;
+  color: white;
+  border-radius:10px;
+}
+
+.inputs{
+ 
+  border:none ;
+  box-shadow: inset 0 2px 2px #999;
+}

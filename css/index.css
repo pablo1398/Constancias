@@ -1,0 +1,131 @@
+body{
+    margin: 0px auto;
+}
+
+.recuadro{
+    margin-top: 10%;
+    padding: 3%;
+    background-color: #D5D9DC;
+    border-radius:10px;
+    align-items: center;
+    align-self: center;
+    text-align: center;
+    width: 35%;
+    
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 5%;
+    flex-wrap: nowrap;
+
+    box-shadow: 15px 15px 10px #8fa1af;
+
+}
+
+.titulo{
+    font-size: 2rem;
+}
+.usuario{
+    margin-top: 30px;
+}
+.contraseña{
+    margin-top: 5%;
+}
+
+
+.inputs{
+    border:none ;
+    box-shadow: inset 0 2px 2px #999;
+}
+
+
+.inicio{
+    margin-top: 30px;
+}
+.btn1{
+    margin-bottom: 8%;
+    background-color: #00A7E1;
+    color: white;
+    border-radius: 15px;
+    display: inline-block;
+    padding: 13px 22px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    text-align: center;
+    text-decoration: none;
+    box-shadow: 0 10px 3px #999;
+}
+
+.btn1:hover {
+    background-color: #0983ac !important ;
+    color: #fff  !important;
+}
+    
+.btn1:active {
+    color: #fff ;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+.btn2{
+   
+    margin-bottom: 10%;
+    background-color: #E7004C;
+    color: white;
+    display: inline-block;
+    padding: 13px 22px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 15px;
+    box-shadow: 0 10px 3px #999;
+}
+.btn2:hover {
+    background-color: #b90541 !important ;
+    color: #fff  !important;
+}
+    
+.btn2:active {
+    color: #fff ;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+
+
+.boton0{
+    display: inline-block;
+    padding: 13px 22px;
+    background-color: #00A7E1;
+    color: #FFFFFF;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 15px;
+    box-shadow: 0 10px 3px #999;
+    
+}
+
+    
+.navegacion{
+   
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 5%;
+
+    padding: 3%;
+    background-color: #D5D9DC;
+    border-radius:10px;
+    align-items: center;
+   
+    text-align: center;
+ 
+    
+
+}
