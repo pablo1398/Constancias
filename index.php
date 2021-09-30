@@ -39,7 +39,7 @@
                 <input class="inputs" type="password">
             </div>
             <div class="inicio">
-                <button class="btn1">INICIAR SESION</button>
+                <button class="btn1">INICIAR SESIÓN</button>
             </div>
             <div class="recuperar">
                 <button class="btn2">RECUPERAR CONTRASEÑA</button>
@@ -47,6 +47,11 @@
          
         </div>
 
-        <a href="uploadDocuments.html">Subir documentos</a>
+        <div class = "navegacion">
+            <a href="uploadDocuments.html">Subir documentos</a><br>
+            <a href="iniciarSolicitud.html">Iniciar Solicitud</a><br>
+            <a href="form/form.html">Formulario</a>
+           
+        </div>
     </body>
 </html>
