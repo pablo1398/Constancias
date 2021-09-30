@@ -30,3 +30,23 @@ body{
     width: 10%;
     height: 10%;
   }
+
+.id{
+    width: 5%;
+}
+
+.fecha{
+    width: 12%;
+}
+
+.estado{
+    width: 10%;
+}
+
+.vigencia{
+    width: 10%;
+}
+
+.img{
+    width: 7%;
+}
