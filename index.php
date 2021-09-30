@@ -51,6 +51,7 @@
             <a href="uploadDocuments.html">Subir documentos</a><br>
             <a href="iniciarSolicitud.html">Iniciar Solicitud</a><br>
             <a href="form/form.html">Formulario</a>
+            <a href="historial.html">Historial de solicitudes</a>
            
         </div>
     </body>
