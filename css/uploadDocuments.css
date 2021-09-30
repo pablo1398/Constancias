@@ -12,6 +12,10 @@
   height: 55%;
 }
 
+.blank{
+  float: right;
+}
+
 .imgFoto{
   width: 10%;
   height: 10%;
@@ -20,8 +24,4 @@
 
 .tittle{
   float:  left;
-}
-
-.blank{
-  float: right;
 }
