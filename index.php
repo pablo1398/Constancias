@@ -1,77 +1,40 @@
 <html>
     <head>
 
-        <link href="fuentes.css" rel="stylesheet" type="text/css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
 
-        <style>
-            body{
-                margin:0px auto;
-            }
-            .header{
+ 
+    <link rel="stylesheet" href="/css/fuentes.css">
+    <link rel="stylesheet" href="/css/header.css">
+    <link rel="stylesheet" href="/css/index.css">
+    
 
-            }
-            .head1{
-                margin:0px auto;
-            }
-            .head2{
-                margin:0px auto;
-            }
-
-            .recuadro{
-                margin-top: 10%;
-                padding: 3%;
-                background-color: rgb(236, 236, 236);
-                border-radius:10px;
-                align-items: center;
-                align-self: center;
-                text-align: center;
-                width: 35%;
-                heigth: 35%;
-                margin-left: auto;
-	            margin-right: auto;
-            }
-            .titulo{
-		        font-size: 2rem;
-            }
-            .usuario{
-                margin-top: 30px;
-            }
-            .contraseña{
-                margin-top: 30px;
-            }
-            .inicio{
-                margin-top: 30px;
-            }
-            .btn1{
-                margin-top: 5px;
-                background-color: #00A7E1;
-                color: white;
-                border-radius:10px;
-            }
-            .btn2{
-                margin-top: 4px;
-                background-color: #E7004C;
-                color: white;
-                border-radius:10px;
-            }
-        </style>
+      
     </head>
     <body>
-        <div class="header">
-            <img class="head1" height="10%" width="70%" src="images/header_salud_00a7e1.jpg">
-            <img class="head2" height="10%" width="29.5%" src="images/header_logo.jpeg">
+    <header>
+        <div class = "divHeader">
+            <div class = "div1 titulo-header">
+                </p>SISTEMA DE CONSTANCIAS DE NO QUEJA MÉDICA</p>
+            </div>
+            <div class = "div2">
+    
+                <img class="imgPrincipal rounded float-end"  src="images/logos_camejal.png">
+            </div>
         </div>
+    </header>
         <div class="recuadro">
             <div class="titulo">
                 Bienvenido
             </div>
             <div class="usuario">
                 USUARIO / CORREO <br>
-                <input type="text">
+                <input class="inputs" type="text">
             </div>
             <div class="contraseña">
                 CONTRASEÑA <br>
-                <input type="password">
+                <input class="inputs" type="password">
             </div>
             <div class="inicio">
                 <button class="btn1">INICIAR SESION</button>
@@ -79,6 +42,7 @@
             <div class="recuperar">
                 <button class="btn2">RECUPERAR CONTRASEÑA</button>
             </div>
+         
         </div>
 
         <a href="uploadDocuments.html">Subir documentos</a>
