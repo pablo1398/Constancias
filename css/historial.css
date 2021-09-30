@@ -56,3 +56,8 @@ body{
     background-color: #00A7E1;
     color: white;
 }
+
+.table{
+    margin-top: 10%;
+    border: 1;
+}
