@@ -15,7 +15,7 @@ body{
     margin-left: auto;
     margin-right: auto;
     display: block;
-    margin-bottom: 10%;
+    margin-bottom: 5%;
     flex-wrap: nowrap;
 
     box-shadow: 15px 15px 10px #8fa1af;
@@ -34,7 +34,12 @@ body{
 
 .inputs{
     border:none ;
-    box-shadow: 0 5px 5px #999;
+    box-shadow: inset 0 2px 2px #999;
+}
+.inputs:active {
+    border:none ;
+    color: #fff ;
+    
 }
 
 .inicio{
@@ -109,3 +114,21 @@ body{
 }
 
     
+.navegacion{
+   
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 5%;
+
+    padding: 3%;
+    background-color: #D5D9DC;
+    border-radius:10px;
+    align-items: center;
+   
+    text-align: center;
+ 
+    
+
+}
