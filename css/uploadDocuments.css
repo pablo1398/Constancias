@@ -13,7 +13,9 @@
 }
 
 .blank{
-  float: right;
+  align-items: center;
+  align-self: center;
+  text-align: center;
 }
 
 .imgFoto{
