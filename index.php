@@ -15,43 +15,63 @@
       
 </head>
     <body>
-    <header>
-        <div class = "divHeader">
-            <div class = "div1 titulo-header">
-                </p>SISTEMA DE CONSTANCIAS DE NO QUEJA MÉDICA</p>
-            </div>
-            <div class = "div2">
-    
-                <img class="imgPrincipal rounded float-end"  src="images/logos_camejal.png">
+        <div class="container-12">
+            <div class = "row">
+                <div class = "divTitle titulo-header col-sm-6 col-md-4 col-lg-3 col-xl-3">
+                        </p>SISTEMA DE CONSTANCIAS DE NO QUEJA MÉDICA</p>
+                </div>
+                <div class = "divImg col-sm-6 col-md-8 col-lg-9 col-xl-9">
+                    <div class="imgPrincipal">
+                        <img   src="images/logo_camejal.png">
+                    </div>
+                </div>
             </div>
         </div>
-    </header>
-        <div class="recuadro">
+        
+  
+    <div class="d-flex flex-row-reverse" style="height: 10%;">
+        <div class="p-2 align-self-center"><button class="btnUser">Salir</button></div>
+        <div class="p-2 align-self-center"><p>Bienvenido: Usuario </p></div>
+        <div class="p-2 align-self-center"><img class="imgUsuar" src="/images/user.png"></div>
+       
+      </div>
+
+        <div class="container mb-5">
+            <div class="recuadro col-sm-8 col-md-6 col-lg-5 col-xl-5">
             <div class="titulo">
                 Bienvenido
             </div>
-            <div class="usuario">
-                USUARIO / CORREO <br>
-                <input  class="inputs" type="text">
+        
+            <div class="row text-center py-3 mt-3">
+                <div class="col-sm-10 col-md-10 col-lg-10 col-xl-10 mx-auto">
+                    <label>USUARIO/CORREO</label>
+                  <input type="text" class="form-control" >
+                </div>
             </div>
-            <div class="contraseña">
-                CONTRASEÑA <br>
-                <input  class="inputs" type="password">
+
+            <div class="row text-center py-3 mt-1">
+                <div class="col-sm-10 col-md-10 col-lg-10 col-xl-10 mx-auto">
+                    <label>CONTRASEÑA</label>
+                    <input type="text"  class="form-control" >
+                </div>
             </div>
+
             <div class="inicio">
                 <button class="btn1">INICIAR SESIÓN</button>
             </div>
             <div class="recuperar">
                 <button class="btn2">RECUPERAR CONTRASEÑA</button>
             </div>
-         
         </div>
+        </div>
+
+
 
         <div class = "navegacion">
             <a href="uploadDocuments.html">Subir documentos</a><br>
             <a href="iniciarSolicitud.html">Iniciar Solicitud</a><br>
-            <a href="form/form.html">Formulario</a>
-           
+            <a href="form/form.html">Formulario</a><br>
+            <a href="historial.html">Historial de solicitudes</a>
         </div>
     </body>
 </html>
