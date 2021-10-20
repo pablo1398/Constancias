@@ -34,10 +34,10 @@
         <div class="p-2 align-self-center"><p>Bienvenido: Usuario </p></div>
         <div class="p-2 align-self-center"><img class="imgUsuar" src="/images/user.png"></div>
        
-      </div>
+    </div>
 
-        <div class="container mb-5">
-            <div class="recuadro col-sm-8 col-md-6 col-lg-5 col-xl-5">
+    <div class="container mb-5">
+        <div class="recuadro col-sm-8 col-md-6 col-lg-5 col-xl-5">
             <div class="titulo">
                 Bienvenido
             </div>
@@ -63,16 +63,16 @@
                 <button class="btn2">RECUPERAR CONTRASEÑA</button>
             </div>
         </div>
-        </div>
+    </div>
 
 
 
         <div class = "navegacion">
             <a href="uploadDocuments.html">Subir documentos</a><br>
             <a href="iniciarSolicitud.html">Iniciar Solicitud</a><br>
-            <a href="form/form.html">Formulario</a><br>
+            <a href="form/form.html">Formulario</a>
             <a href="historial.html">Historial de solicitudes</a>
-
         </div>
+        
     </body>
 </html>
