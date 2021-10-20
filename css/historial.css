@@ -1,0 +1,73 @@
+body{
+    margin: 0px auto;
+}
+
+.recuadro{
+    margin-top: 10%;
+    padding: 3%;
+    background-color: #D5D9DC;
+    border-radius:10px;
+    align-items: center;
+    align-self: center;
+    text-align: center;
+    width: 85%;
+    
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 5%;
+    flex-wrap: nowrap;
+
+    box-shadow: 15px 15px 10px #8fa1af;
+
+}
+
+.titulo{
+    font-size: 2rem;
+}
+
+.imgFoto{
+    width: 15%;
+    height: 15%;
+  }
+
+.id{
+    width: 5%;
+    border: 1px
+}
+
+.fecha{
+    width: 12%;
+}
+
+.estado{
+    width: 10%;
+}
+
+.vigencia{
+    width: 10%;
+}
+
+.img{
+    width: 7%;
+}
+
+.linea{
+    background-color: #00A7E1;
+    color: white;
+}
+
+.table{
+    margin-top: 10%;
+    border: 1;
+}
+
+table {
+    border-collapse: collapse;
+}
+ 
+table,
+tr,
+td {
+    border: 1px solid black;
+}
