@@ -70,8 +70,10 @@
         <div class = "navegacion">
             <a href="uploadDocuments.html">Subir documentos</a><br>
             <a href="iniciarSolicitud.html">Iniciar Solicitud</a><br>
-            <a href="form/form.html">Formulario</a>
-            <a href="historial.html">Historial de solicitudes</a>
+            <a href="form/form.html">Formulario</a><br>
+            <a href="historial.html">Historial de solicitudes</a><br>
+            <a href="adminQuejas.html">Admin Quejas</a><br>
+            <a href="adminDB.html">Admin DB/a><br>
         </div>
         
     </body>
