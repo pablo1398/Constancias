@@ -4,6 +4,13 @@
     
 }
 
+.adminHeader {
+ 
+    background-color: #e86b1f;
+    color: #ffff;
+    padding: 30px;
+}
+
 .divTitle {
  
     background-color: #00A7E1;
@@ -71,6 +78,33 @@
 }
     
 .btnUser:active {
+    color: #fff ;
+    box-shadow: 0 2px #666;
+    transform: translateY(4px);
+} 
+
+.btnAdmin{
+    display: inline-block;
+    padding: 0px 20px;
+    background-color: #e86b1f;
+    color: #FFFFFF;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 15px;
+    box-shadow: 0 10px 3px #999;
+    margin-left: 2%;
+
+}
+  
+.btnAdmin:hover {
+    background-color: #c46124 !important ;
+    color: #fff  !important;
+}
+    
+.btnAdmin:active {
     color: #fff ;
     box-shadow: 0 2px #666;
     transform: translateY(4px);
