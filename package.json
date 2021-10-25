@@ -1,0 +1,14 @@
+{
+  "name": "constancias",
+  "version": "1.0.0",
+  "description": "Proyecto Modular",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "constancias"
+  ],
+  "author": "Bryan",
+  "license": "ISC"
+}
