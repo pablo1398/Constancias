@@ -11,7 +11,32 @@
     <link rel="stylesheet" href="/css/header.css">
     <link rel="stylesheet" href="/css/index.css">
     
+    <script>
 
+        function recibe(){
+			var usuario = $('#usuario').val();
+			var contraseña = $('#contraseña').val();
+			if (usuario != '' && contraseña != ''){
+				$.ajax({
+					url : './back/login.php',
+					type : 'post',
+					dataType : 'text',
+					data : 'usuario='+usuario+'&contraseña='+contraseña,
+					success : function(res){
+						
+						if(res > 0){
+							alert("Usuario valido");
+						}
+					}, error: function(){
+						alert('Error al conectar al sevidor...');
+					}
+				});
+			}else{
+                alert("Introdusca datos");
+            }
+		}
+
+    </script>
       
 </head>
     <body>
@@ -45,19 +70,19 @@
             <div class="row text-center py-3 mt-3">
                 <div class="col-sm-10 col-md-10 col-lg-10 col-xl-10 mx-auto">
                     <label>USUARIO/CORREO</label>
-                  <input type="text" class="form-control" >
+                  <input id="usuario" type="text" class="form-control" >
                 </div>
             </div>
 
             <div class="row text-center py-3 mt-1">
                 <div class="col-sm-10 col-md-10 col-lg-10 col-xl-10 mx-auto">
                     <label>CONTRASEÑA</label>
-                    <input type="text"  class="form-control" >
+                    <input id="contraseña" type="text"  class="form-control" >
                 </div>
             </div>
 
             <div class="inicio">
-                <button class="btn1">INICIAR SESIÓN</button>
+                <button class="btn1" onClick="recibe();">INICIAR SESIÓN</button>
             </div>
             <div class="recuperar">
                 <button class="btn2">RECUPERAR CONTRASEÑA</button>
